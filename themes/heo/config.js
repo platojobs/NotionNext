@@ -4,7 +4,7 @@ const CONFIG = {
 
   HEO_HOME_BANNER_ENABLE: true,
 
-  HEO_SITE_CREATE_TIME: '2021-09-21', // 建站日期，用于计算网站运行的第几天
+  HEO_SITE_CREATE_TIME: '2016-09-21', // 建站日期，用于计算网站运行的第几天
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
@@ -18,17 +18,17 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '阅读',
-  HEO_HERO_TITLE_2: '与写作',
+  HEO_HERO_TITLE_1: '这个世界的麻烦就是傻瓜非常自信，',
+  HEO_HERO_TITLE_2: '而智者总是充满疑虑。',
   HEO_HERO_TITLE_3: 'PLATOJOBS.COM',
   HEO_HERO_TITLE_4: '相聚离开',
   HEO_HERO_TITLE_5: '都有时候，没有什么会永垂不朽',
   HEO_HERO_TITLE_LINK: 'https://platojobs.github.io/',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '心情随笔', url: '/tag/心情随笔' },
-  HEO_HERO_CATEGORY_2: { title: '技术分享', url: '/tag/技术分享' },
-  HEO_HERO_CATEGORY_3: { title: '读书笔记', url: '/tag/读书笔记' },
+  HEO_HERO_CATEGORY_1: { title: '心情随笔', url: '/category/心情随笔' },
+  HEO_HERO_CATEGORY_2: { title: '技术分享', url: '/category/技术分享' },
+  HEO_HERO_CATEGORY_3: { title: '读书笔记', url: '/category/读书笔记' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '',
@@ -89,9 +89,9 @@ const CONFIG = {
   ],
 
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
-  HEO_SOCIAL_CARD_TITLE_1: '交流频道',
-  HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
-  HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
+  HEO_SOCIAL_CARD_TITLE_1: '微信公众号',
+  HEO_SOCIAL_CARD_TITLE_2: '“在这个世界上不要依赖任何人，因为当你在黑暗中挣扎时，连你的影子都会离开你。” ​​​',
+  HEO_SOCIAL_CARD_TITLE_3: '关注我吧',
   HEO_SOCIAL_CARD_URL: 'https://www.platojobs.cn/article/2024-01-19-1636',
 
   // *****  以下配置无效，只是预留开发 ****
