@@ -18,7 +18,7 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '阅读分享',
   HEO_HERO_TITLE_2: '与文摘',
   HEO_HERO_TITLE_3: 'PLATOJOBS.CN',
-  HEO_HERO_TITLE_4: '新版上线',
+  HEO_HERO_TITLE_4: '不以物喜，不以己悲',
   HEO_HERO_TITLE_5: '相聚离开都有时候，没有什么会永垂不朽',
   HEO_HERO_TITLE_LINK: 'https://platojobs.cn',
   // 英雄区遮罩文字
